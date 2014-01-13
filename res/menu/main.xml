@@ -1,0 +1,14 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android" >
+
+    <item
+        android:id="@+id/select_all_contacts"
+        android:orderInCategory="100"
+        android:showAsAction="never"
+        android:title="Select All"/>
+
+    <item
+     	android:id="@+id/deselect_all_contacts"
+        android:orderInCategory="100"
+        android:showAsAction="never"
+        android:title="Unselect All"/>
+</menu>
